@@ -1,0 +1,421 @@
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hex_kq.resources
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.xml
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+E:\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hex_kq.resources
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hex_kq.resources
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hoaithuong\Downloads\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hex_kq.resources
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\Documents\Zalo Received Files\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hex_kq.resources
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C#\WindowsFormsApp1 (3)\WindowsFormsApp1 (1)\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hex_kq.resources
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\nguye\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.hex_kq.resources
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\mongocrypt.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpCompress.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.pdb
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.Core.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DnsClient.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Base.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V21.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V22.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V23.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V231.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V24.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V25.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V251.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V26.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V27.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V271.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V28.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NHapi.Model.V281.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snappier.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\nguye\Downloads\Testwinform\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ASTMViewer.ASTMParserGUI.resources
